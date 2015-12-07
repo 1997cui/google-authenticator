@@ -1,0 +1,15 @@
+# Output products list for <calc>
+_xmsgs\pn_parser.xmsgs
+calc.asy
+calc.gise
+calc.ngc
+calc.sym
+calc.v
+calc.veo
+calc.vhd
+calc.vho
+calc.xco
+calc.xise
+calc_flist.txt
+calc_readme.txt
+calc_xmdf.tcl
