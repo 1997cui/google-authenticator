@@ -33,7 +33,7 @@ module test_main;
 	wire [3:0] an;
 
 	// Instantiate the Unit Under Test (UUT)
-	main #(.freq (50), .cycles (2)) uut (
+	main #(.freq (50), .debouncer_cycles (2)) uut (
 		.rst_in(rst_in), 
 		.clk(clk), 
 		.seg(seg), 
